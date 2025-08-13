@@ -1,0 +1,32 @@
+{
+  "name": "som-portfolio-backend",
+  "version": "1.0.0",
+  "description": "Backend server for Som's portfolio with chat functionality",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "nodemon server.js",
+    "embed": "node scripts/embed.js --input data.csv --output embeddings.json --text-col text --id-col id"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "cors": "^2.8.5",
+    "dotenv": "^16.3.1",
+    "body-parser": "^1.20.2",
+    "@xenova/transformers": "^2.17.2",
+    "csv-parse": "^5.5.6",
+    "minisearch": "^6.3.0",
+    "@google/generative-ai": "^0.21.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  },
+  "keywords": [
+    "portfolio",
+    "chat",
+    "nodejs",
+    "express"
+  ],
+  "author": "Som Nath",
+  "license": "MIT"
+}

@@ -1,0 +1,222 @@
+Category,Details
+Name,Som Nath
+Overview,"Som Nath is a multi-faceted builder with cross-functional expertise in engineering, design, and product-led growth. With over 5 years of experience, Som has contributed significantly to the EdTech and B2B SaaS domains, especially through his leadership at Postman, where he helped build and scale educational and developer-facing programs from the ground up. He has also worked with multiple startups and attempted to launch his own, showing strong entrepreneurial intent.
+Som is deeply passionate about AI for productivity, community-led growth, and building systems that scale—both technically and operationally. He’s currently pursuing further education at Northwestern University, working on applied projects that combine product thinking with technical implementation."
+Based In,"Evanston, Illinois, USA"
+Previous location,"Bangalore, KA, India. Chennai, TN, India"
+Industry,"Edtech, B2B SaaS, AI"
+Past Roles,"Senior Growth Product Manager at Postman, Developer Community at Crio.Do, Software Engineer & Founder at Fnplus"
+Technical Stack,"Python, Node.js, React, Vite, Firebase, AWS, Terraform, Retool, LangChain, Huggingface, MLFlow, LangGraph, LangSmith"
+Focus Areas,"AI Agents, Product Management, Community Building, Workflow Automation, Product Led Growth"
+Goals,"Launch own product startup, simplify tech for non-tech users with conversational agents"
+Personal Beliefs,"Honest, grounded, builder-first, Learn by doing, community person, Growth mindset, Data driven"
+"Achievements, recognitions and awards","Built Postman’s Student Programs engine and internal tools powering growth.
+
+Launched the first AI-based PBL course at Postman, enabling hands-on AI learning for students.
+
+Developed JenoAI.com, an AI marketing platform MVP, reaching 500+ early users.
+
+Winner of national hackathons, including SRM Hackathon, Anna University Hacks, and ZoomRX Hackathon.
+
+GitHub CodeVault Contributor badge for open-source contributions to Fnplus.
+
+Best Research Paper Award at IRAJ Conference for work on wireless mesh networking for disaster management."
+Projects,"Built project PMFlow: An agentic AI workflow platform for product managers that streamlines secondary research, user insights gathering, and MVP development. Uses LLM-driven chains of thought and automated task orchestration to reduce time-to-market and improve product decision quality. Built with Node.js, LangChain, and n8n.
+
+Built project Jeno AI: A hyperlocal AI-powered marketing assistant for small retail business owners. Analyzes store data to recommend targeted campaigns, generate marketing collateral like flyers, and automate omnichannel campaign launches on Google My Business, Instagram, and Facebook. Built with Node.js, Firebase, Vite, and social media API integrations.
+
+Built project Mediscribe: A medical-grade transcription assistant for pharmacists and healthcare professionals. Transcribes and organizes prescriptions and patient interactions accurately using speech-to-text AI and NLP pipelines, ensuring HIPAA compliance and high transcription fidelity. Built with Python, Huggingface transformers, and secure AWS infrastructure.
+
+Built project Lumen: A personal AI tutor for students providing adaptive learning experiences, instant doubt resolution, and personalized study plans. Integrates vector search over curriculum documents and interactive chat interfaces for scalable tutoring. Built with LangChain, OpenAI embeddings, and React.
+
+Built project Instify: A micro-social networking Android app for college students to create communities, share content, and organize campus events. Features real-time chat, customizable profiles, and modular content feeds for peer engagement. Built with native Android development tools in Android Studio.
+
+Built project Echo: A disaster management platform leveraging wireless mesh networking for resilient communication when traditional networks fail. Provides location tracking, resource coordination, and alert broadcasting for first responders and community teams. Built with embedded C, mesh network protocols, and mobile apps."
+Academic research,"- SET analysis for AI reskilling project (Northwestern MPD2 Capstone)
+- Research on AI agents for education and small business"
+Product Development and Management,"At Postman, owned the product roadmap for Postman Academy (3M users), resulting in a 3x improvement in product adoption within one year.
+
+
+At Postman, reduced product launch time by 50% by introducing agile sprints, rapid prototyping, and weekly user feedback cycles.
+
+
+At Postman, created internal documentation and stakeholder presentations to align product teams and improve the overall development process.
+
+
+At Postman, mentored cross-functional teams on product strategy, experimentation design, and AI-driven growth methodologies.
+
+
+At Crio.Do, led the development of the Crio Launch Platform, which generated $100K in revenue and reached 20K+ users within a year.
+
+
+At Crio.Do, launched Crio Bytes (open-source project modules), which increased engagement by 10% and achieved a 40% module completion rate.
+
+
+At Fnplus Tech, co-founded and developed a community-based LMS platform that scaled to 10K+ users and generated $10K revenue within six months."
+Product Growth and Data Analytics,"At Postman, designed and implemented self-sustaining growth loops leveraging user referrals, content creation, and community engagement to drive exponential product adoption without relying on paid marketing.
+
+At Postman, developed detailed flywheel models mapping how engagement, retention, and referral mechanisms interact and reinforce each other, enabling scalable, compounding growth.
+
+At Postman, built product features and incentives that triggered virality loops, such as incentivized sharing and collaborative workflows that increased network effects.
+
+At Postman, used cohort analysis and data-driven insights to identify friction points in growth loops and iteratively optimize the flywheel for faster acceleration.
+
+At Postman, ran hypothesis-driven experiments testing flywheel components like onboarding flows, notification strategies, and social sharing features.
+
+At Postman, partnered closely with engineering to implement tracking and instrumentation needed for real-time measurement of growth loop velocity and health.
+
+At Postman, created dashboards visualizing key flywheel metrics such as activation rate, viral coefficient, and churn to guide leadership decisions.
+
+At Crio.Do, contributed to early growth by identifying user behaviors that could feed into viral loops and retention cycles within the Crio Launch Platform.
+
+At Crio.Do, helped optimize engagement strategies by building features that encouraged social learning and peer referrals, fostering a flywheel effect.
+
+At FnPlus, designed product-led growth strategies focusing on community engagement loops that drove organic expansion of the LMS platform user base."
+Internal toolings and Workflow Automation,"At Postman, developed an AI-powered analytics system to extract insights from 20,000+ lines of customer feedback using embeddings and unsupervised clustering.
+
+At Postman, led the development of an internal data platform enabling real-time reporting, which reduced ops workload by 75% through workflow automation.
+
+At Postman, integrated automated growth and analytics workflows using Retool, Segment, and internal pipelines.
+
+At Postman, mentored the growth and data teams on using AI/ML models, statistical testing, and data pipelines to scale experimentation.
+
+Independently, built a resume updating agent using n8n and LLMs that reads from Google Docs and updates content based on job descriptions.
+
+Independently, automated campaign generation workflows for JenoAI that create social posts, flyers, and ad creatives using a single prompt.
+
+Independently, built a competitor analysis agent workflow in n8n that identifies direct and indirect competitors using Tree-of-Thought prompting and LLMs."
+Community Building,"At Postman, scaled the Student Leader, Expert, and Classroom community programs to global reach through automation and self-serve models.
+
+At Postman, helped build Postman Academy into a scalable learning platform serving over 3 million developers.
+
+At Postman, created the first AI-powered project-based learning (PBL) course for developers, integrating LLMs into the curriculum.
+
+At Postman, built tools and workflows in Retool to manage education operations, certification programs, and student onboarding.
+
+At Crio.Do, helped build and grow an engaged community of learners and mentors by launching programs that encouraged peer collaboration and project-based learning.
+
+At Crio.Do, designed and implemented community engagement initiatives that increased user retention and platform activity through timely notifications and gamification.
+
+At Crio.Do, collaborated with the product and marketing teams to create open-source projects (Crio Bytes) that fostered community contributions and knowledge sharing.
+
+At Crio.Do, supported student cohorts by organizing virtual events and hackathons to boost learning motivation and peer networking.
+
+At Crio.Do, tracked community health metrics and feedback to continuously improve user onboarding and engagement workflows.
+
+At Fnplus Tech, developed a community-first learning platform designed for students in underserved regions.
+
+At Fnplus Tech, focused on building peer-to-peer learning communities and early monetization models tied to course engagement."
+Engineering,"At Hashbird Technologies, contributed to early-stage software development projects as a software engineer, gaining hands-on experience in backend systems and deployment.
+
+At Fnplus Tech, led full-stack development of the LMS platform using Firebase and React, including authentication, content delivery, and analytics.
+
+At Crio.Do, collaborated with engineers to ship backend systems that tracked learner performance and synced engagement metrics across platforms.
+
+Developed a scalable Node.js-based backend API with MongoDB and AWS S3 for image upload and deletion, including user authentication and metrics tracking. (Personal Project – JenoAI)
+
+Built an AI-powered teaching assistant using RAG architecture and LangChain, designed to answer curriculum questions from Postman's public learning materials. (Personal Project - Lumen )
+
+Created a serverless application deployed on AWS EC2 with CloudWatch, Route 53, and Terraform, featuring end-to-end monitoring and alert system. (Academic/Side Project – CSYE 6225)
+
+Integrated LangGraph with MLflow to track agentic workflows and performance of LLM-based agents, enabling reproducible AI experiments. (PMFlow)
+
+Engineered a hyperlocal marketing agent using Vite + Firebase + Node.js, capable of campaign recommendation, flyer generation, and social media automation for small businesses. (Personal Project – JenoAI)"
+Best Practices,"Build products with a clear problem-first mindset before jumping into features.
+
+Validate hypotheses early with small experiments to avoid wasted effort.
+
+Use data-driven decision making to guide product and growth strategies.
+
+Prioritize user clarity over technical complexity in product communication.
+
+Design self-sustaining growth loops that fuel organic user acquisition.
+
+Leverage AI and automation to reduce operational workload and scale efficiently.
+
+Build workflows that empower non-technical users with intuitive automation.
+
+Integrate cross-functional teams to align product, data, and engineering efforts.
+
+Use agile sprints and rapid prototyping to accelerate time-to-market.
+
+Embed feedback loops within products to continuously learn from users.
+
+Create clear documentation to ensure stakeholder alignment.
+
+Mentor teams to adopt experimentation and statistical analysis for growth.
+
+Design onboarding flows that reduce friction and boost activation rates.
+
+Apply Tree-of-Thought prompting to improve AI agent reasoning.
+
+Use vector embeddings to extract insights from unstructured user feedback.
+
+Build agentic workflows that automate repetitive product management tasks.
+
+Use n8n and Retool for rapid workflow automation without heavy coding.
+
+Combine quantitative analytics with qualitative research for richer insights.
+
+Map out flywheel models to understand and optimize compounding growth.
+
+Design viral loops that encourage sharing and community participation.
+
+Focus on accessible education platforms to democratize learning.
+
+Build community-first products that enable peer support and mentorship.
+
+Leverage open-source modules to drive engagement and contributions.
+
+Use cohort analysis to identify and resolve user drop-off points.
+
+Automate campaign launches for small businesses to reduce manual effort.
+
+Monitor key metrics continuously with dashboards for data transparency.
+
+Build modular APIs that scale and can be reused across products.
+
+Prioritize product features that align with user value and business goals.
+
+Use hypothesis-driven A/B testing to optimize user journeys.
+
+Build cross-channel marketing workflows to reach users on their preferred platforms.
+
+Simplify backend workflows to make products maintainable and extensible.
+
+Use cloud infrastructure and infrastructure-as-code for repeatable deployments.
+
+Design AI teaching assistants that augment, not replace, human educators.
+
+Build products that integrate seamlessly with popular third-party tools.
+
+Scale communities by enabling self-serve models and automation.
+
+Foster a growth mindset by encouraging experimentation and learning from failure.
+
+Encourage cross-pollination between product, engineering, and data teams.
+
+Use agile retrospectives to continuously improve team processes.
+
+Focus on user privacy and data security in all product designs.
+
+Build products that are inclusive and accessible to underserved populations.
+
+Design marketing campaigns that are hyperlocal and contextually relevant.
+
+Use conversational AI agents to make technology approachable for non-technical users.
+
+Continuously track competitor movements with automated analysis workflows.
+
+Automate repetitive product manager tasks to free up creative time.
+
+Use storytelling and clear messaging to explain complex product concepts.
+
+Design growth experiments that are measurable and time-bound.
+
+Build dashboards that combine product usage, marketing, and community metrics.
+
+Optimize onboarding to increase activation and reduce time-to-value.
+
+Use AI embeddings to personalize user experiences at scale.
+
+Align product development closely with user feedback and market trends."
